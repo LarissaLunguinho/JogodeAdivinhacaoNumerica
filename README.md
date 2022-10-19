@@ -14,14 +14,14 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
-* Você instalou a versão mais recente de Python
+* Instalar a versão mais recente de Python
 * Foi desenvolvido no Visual Studio Code
 
 
 ## ☕ Usando Jogo de Adivinhação Númerica
 
 Para usar Jogo de Adivinhação Númerica, siga estas etapas:
-* No meu caso no vscode, instale o aplicativo e execute(Ctrl+F5)
+* No caso do vscode, instale o aplicativo e execute(Ctrl+F5)
 
 ## 📫 Contribuindo para Jogo de Adivinhação Númerica
 Para contribuir com Jogo de Adivinhação Númerica, siga estas etapas:
